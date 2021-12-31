@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640776426 source:c:\users\k\my_c++_projects\covarianceproj\main.cpp
+	<iostream>
+	<cmath>
+
